@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{D9C57E77-D140-452D-ABCA-AA464E493D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator.Tests", "AreaCalculator.Tests\AreaCalculator.Tests.csproj", "{389E14C2-8D84-460D-988D-4069670E0E8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{3891C141-D4BB-4C32-801E-1F13E5D63025}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C57E77-D140-452D-ABCA-AA464E493D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C57E77-D140-452D-ABCA-AA464E493D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C57E77-D140-452D-ABCA-AA464E493D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C57E77-D140-452D-ABCA-AA464E493D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389E14C2-8D84-460D-988D-4069670E0E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389E14C2-8D84-460D-988D-4069670E0E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389E14C2-8D84-460D-988D-4069670E0E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389E14C2-8D84-460D-988D-4069670E0E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
